@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    {
+      "name": "Stremio AniSkip",
+      "author": "REVENGE977",
+      "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
+      "version": "1.0.0",
+      "tags": ["skip", "anime"],
+      "repo": "https://github.com/REVENGE977/stremio-aniskip",
+      "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
+    }
+  ],
+  "themes": [
+    {
+      "name": "Amoled Dark",
+      "author": "REVENGE977",
+      "description": "A pitch black theme for stremio-enhanced",
+      "version": "1.0.3",
+      "tags": ["dark", "minimal"],
+      "repo": "https://github.com/REVENGE977/StremioAmoledTheme",
+      "preview": "https://github.com/REVENGE977/stremio-enhanced/raw/main/images/amoled_screenshot.png",
+      "download": "https://raw.githubusercontent.com/REVENGE977/StremioAmoledTheme/refs/heads/main/amoled.theme.css"
+    }
+  ]
+}
