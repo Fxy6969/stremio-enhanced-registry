@@ -1,4 +1,4 @@
-<h1 align="center">Stremio Enhanced</h1>
+<h1 align="center">Stremio Enhanced Registry</h1>
 
 ## What is this repository for?
 This is the official repository of community-made plugins/themes for Stremio Enhanced. Here you can submit your own plugin/theme to appear in Stremio Enhanced list of plugins/themes.
