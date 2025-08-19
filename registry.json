@@ -15,6 +15,14 @@
       "version": "1.0.1",
       "repo": "https://github.com/REVENGE977/stremio-slash-to-search",
       "download": "https://raw.githubusercontent.com/REVENGE977/SlashToSearch/refs/heads/main/SlashToSearch.plugin.js"
+    },
+    {
+      "name": "FilterStreams",
+      "author": "0xA18",
+      "description": "Filters a movie's/tv show episode's streams",
+      "version": "0.1.0",
+      "repo": "https://github.com/0xA18/stremio-enhanced-plugins/",
+      "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta/filter-streams.plugin.js"
     }
   ],
   "themes": [
