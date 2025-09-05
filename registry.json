@@ -23,6 +23,14 @@
       "version": "0.1.0",
       "repo": "https://github.com/0xA18/stremio-enhanced-plugins/",
       "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta/filter-streams.plugin.js"
+    },
+    {
+      "name": "Stremio Intro Skip",
+      "author": "shugi12345",
+      "description": "Community-powered “Skip Intro” for shows and movies in Stremio Enhanced.",
+      "version": "1.1.0",
+      "repo": "https://github.com/shugi12345/stremio-skip-button",
+      "download": "https://github.com/shugi12345/stremio-skip-button/releases/download/v1.1.0/skip-intro.plugin.js"
     }
   ],
   "themes": [
