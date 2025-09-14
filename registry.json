@@ -75,15 +75,6 @@
   ],
   "themes": [
     {
-      "name": "Amoled Dark",
-      "author": "REVENGE977",
-      "description": "A pitch black theme for stremio-enhanced",
-      "version": "1.0.3",
-      "repo": "https://github.com/REVENGE977/StremioAmoledTheme",
-      "preview": "https://github.com/REVENGE977/stremio-enhanced/raw/main/images/amoled_screenshot.png",
-      "download": "https://raw.githubusercontent.com/REVENGE977/StremioAmoledTheme/refs/heads/main/amoled.theme.css"
-    },
-    {
       "name": "Modern Glass",
       "author": "Fxy",
       "description": "Modern Glass is a complete visual overhaul for Stremio Enhanced. It brings a sleek, glass-like aesthetic combined with powerful quality-of-life improvements for a truly modern streaming experience.",
@@ -91,6 +82,15 @@
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
       "preview": "https://github.com/Fxy6969/Stremio-Glass-Theme/raw/cover/assets/modrn-glass-preview.png",
       "download": "https://raw.githubusercontent.com/Fxy6969/Stremio-Glass-Theme/refs/heads/cover/themes/liquid-glass.theme.css"
+    },
+    {
+      "name": "Amoled Dark",
+      "author": "REVENGE977",
+      "description": "A pitch black theme for stremio-enhanced",
+      "version": "1.0.3",
+      "repo": "https://github.com/REVENGE977/StremioAmoledTheme",
+      "preview": "https://github.com/REVENGE977/stremio-enhanced/raw/main/images/amoled_screenshot.png",
+      "download": "https://raw.githubusercontent.com/REVENGE977/StremioAmoledTheme/refs/heads/main/amoled.theme.css"
     }
   ]
 }
